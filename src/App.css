@@ -60,4 +60,14 @@
   padding: 10px;
   background-color: #F2F6FF;
   text-align: left;
+  cursor: pointer;
+}
+.quiz-content ul li:hover{
+  background-color: #fff;
+}
+.quiz-content .row.true{
+  background-color: green;
+}
+.quiz-content .row.false{
+  background-color: red;
 }
